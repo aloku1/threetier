@@ -79,7 +79,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: "aloky1/synfront2112"
+        image: "aloku1/synfront2112"
         ports:
           - name: http
             containerPort: 80
